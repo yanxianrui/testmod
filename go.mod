@@ -1,1 +1,1 @@
-module github.com/yanxianrui/testmod
+module github.com/yanxianrui/testmod/v2
